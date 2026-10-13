@@ -20,12 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="circle.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="point.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="add.h">
       <Filter>Header Files</Filter>
     </ClInclude>
